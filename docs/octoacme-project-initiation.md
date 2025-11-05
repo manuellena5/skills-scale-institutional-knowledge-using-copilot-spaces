@@ -24,14 +24,16 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Problem statement:
 - Objective / Goal (SMART):
 - Success metrics:
-- Primary stakeholders:
+- Primary stakeholders (consider: Sponsor, Product Manager, key users):
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
+- Proposed team / roles (consider: Developers, Product Manager, Project Manager, UX Designer, Data Analyst, QA, Scrum Master, System Administrator):
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] UX Designer consulted on user needs and design implications
+- [ ] Data Analyst consulted on success metrics and measurement approach
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
